@@ -84,7 +84,7 @@ N'oubliez pas de lier le fichier CSS compilé (et non le fichier SCSS) dans votr
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Pourquoi utiliser la puissance de SCSS : Fonctions et Imbrication Conditionnelle
+#Pourquoi utiliser la puissance de SCSS : Fonctions et Imbrication Conditionnelle
 
 Dans le monde du développement web moderne, SCSS (Sassy CSS) se distingue comme un outil puissant pour la création de styles CSS avancés. Deux de ses fonctionnalités les plus impressionnantes sont les fonctions personnalisées et l'imbrication conditionnelle. Explorons comment ces outils peuvent révolutionner votre approche du styling.
 
