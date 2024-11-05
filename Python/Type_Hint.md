@@ -216,3 +216,9 @@ def thanks_for_all_the_types() -> str:
 ```
 
 N'oubliez pas : 42 n'est pas qu'un nombre, c'est aussi un type parfaitement valide ! 🎀
+
+## Authors :
+
+Made with love and passions by :
+ - Fassih
+ - Zoé

@@ -14,7 +14,29 @@ Un Guide pour les trouver,
 Un Guide pour les amener tous,  
 Et dans ES6 les lier !
 
-## Les Anneaux de Pouvoir Modernes ⚔️
+# Le Guide ES6 de la Terre du Milieu
+
+## TL;DR - Le Message de Galadriel
+ES6 apporte aux terres de JavaScript :
+- const/let pour remplacer l'ancien var
+- Arrow functions pour des sorts plus élégants
+- Classes pour un héritage noble
+- Modules pour forger des alliances
+- Promesses pour des prophéties plus claires
+- Et bien d'autres magies modernes...
+
+## Sommaire - La Carte de la Terre du Milieu
+1. [Les Anneaux de Pouvoir Modernes](#les-anneaux-de-pouvoir-modernes) - const, let et arrow functions
+2. [Les Sortileges du Template Literal](#les-sortileges-du-template-literal) - La nouvelle magie des chaînes
+3. [Le Pouvoir du Destructuring](#le-pouvoir-du-destructuring---les-secrets-des-mines-de-la-moria) - L'art d'extraire la magie
+4. [Les Classes ES6](#les-classes-es6---lheritage-des-rois-du-gondor) - L'héritage des rois
+5. [Les Promesses](#les-promesses---les-propheties-des-elfes) - Les prophéties modernes
+6. [Les Modules ES6](#les-modules-es6---lart-de-forger-des-alliances) - L'art des alliances
+7. [Les Ages a Venir](#les-ages-a-venir---une-vision-delrond) - Les prophéties d'Elrond
+
+## Les Anneaux de Pouvoir Modernes 
+
+⚔️
 
 Dans les temps anciens, les développeurs utilisaient var, un pouvoir instable et imprévisible. 
 Mais l'âge des Elfes a apporté de nouveaux artefacts...
@@ -30,7 +52,9 @@ let gandalfLocation = "Shire";   // Change comme les voyages du magicien
 const shootOrc = target => `${target} has been vanquished!`;
 ```
 
-## Les Artefacts Anciens vs La Nouvelle Alliance 🗡️
+## Les Artefacts Anciens vs La Nouvelle Alliance 
+
+🗡️
 
 Dans les temps anciens, les développeurs enchaînaient leurs méthodes comme les Nains enchaînaient leurs prisonniers...
 
@@ -51,7 +75,9 @@ const forgePrecious = () => ({
 });
 ```
 
-## Les Sortilèges du Template Literal 📜
+## Les Sortileges du Template Literal 
+
+📜
 
 Les anciens sorts étaient maladroits, mais les nouveaux sont élégants...
 
@@ -63,7 +89,9 @@ const oldSpell = "The ring bearer is " + hobbitName + " from " + location;
 const newSpell = `The ring bearer is ${hobbitName} from ${location}`;
 ```
 
-## Le Pouvoir du Destructuring - Les Secrets des Mines de la Moria 💎
+## Le Pouvoir du Destructuring - Les Secrets des Mines de la Moria 
+
+💎
 
 Comme les Nains qui extraient les joyaux de la montagne, le destructuring nous permet d'extraire les trésors des objets...
 
@@ -80,7 +108,9 @@ const { hobbit: ringBearer, wizard, elf } = fellowship;
 const [firstAge, secondAge, thirdAge] = ages;
 ```
 
-## Le Spread Operator - La Dispersion de la Communauté 🌟
+## Le Spread Operator - La Dispersion de la Communauté 
+
+🌟
 
 Comme la Communauté qui se sépare pour accomplir sa quête...
 
@@ -96,7 +126,9 @@ const newRing = {
 };
 ```
 
-## Les Classes ES6 - L'Héritage des Rois du Gondor 👑
+## Les Classes ES6 - L'Heritage des Rois du Gondor 
+
+👑
 
 Comme Aragorn qui hérite du trône de ses ancêtres, les classes ES6 nous apportent un héritage plus noble...
 
@@ -129,7 +161,9 @@ class TheOneRing extends Ring {
 const oneRing = new TheOneRing();
 ```
 
-## Les Gardiens des Secrets - Getters & Setters 🗝️
+## Les Gardiens des Secrets - Getters & Setters 
+
+🗝️
 
 Comme les gardiens des portes de la Moria, les getters et setters protègent l'accès à nos trésors...
 
@@ -161,7 +195,9 @@ const ring = new RingOfPower();
 ring.meta = { title: "Mon précieux" };
 ```
 
-## Les Méthodes Statiques - La Sagesse des Istari 🧙‍♂️
+## Les Methodes Statiques - La Sagesse des Istari 
+
+🧙‍♂️
 
 Comme Gandalf qui partage sa sagesse avec le Conseil Blanc, les méthodes statiques partagent leur pouvoir avec tous...
 
@@ -190,7 +226,9 @@ const council = WhiteCouncil.forge({
 });
 ```
 
-## Les Promesses - Les Prophéties des Elfes 🌟
+## Les Promesses - Les Propheties des Elfes 
+
+🌟
 
 Comme les visions d'Elrond qui peuvent ou non se réaliser, les Promesses sont des engagements... flexibles.
 
@@ -231,7 +269,9 @@ async function questForTheRing() {
 }
 ```
 
-## L'Async/Await - La Magie des Temps Modernes ✨
+## L'Async/Await - La Magie des Temps Modernes 
+
+✨
 
 Comme les Elfes qui ont remplacé leur ancienne magie par des sorts plus élégants, nous avons évolué...
 
@@ -265,7 +305,9 @@ async function searchForArtifacts() {
 }
 ```
 
-## Les Modules ES6 - L'Art de Forger des Alliances 🛠️
+## Les Modules ES6 - L'Art de Forger des Alliances 
+
+🛠️
 
 Comme les différents peuples de la Terre du Milieu qui s'unissent, les modules nous permettent de rassembler nos pouvoirs...
 
@@ -299,7 +341,9 @@ const createRing = () => {
 };
 ```
 
-## Les Modules Dynamiques - La Magie qui s'Adapte 🌟
+## Les Modules Dynamiques - La Magie qui s'Adapte 
+
+🌟
 
 Comme Gandalf qui révèle ses pouvoirs selon les besoins, les imports dynamiques nous permettent d'invoquer la magie à la demande...
 
@@ -326,7 +370,9 @@ async function summonAncientPower() {
 }
 ```
 
-## La Prophétie des Frameworks - Les Visions d'Elrond 🔮
+## La Prophetie des Frameworks - Les Visions d'Elrond 
+
+🔮
 
 Comme les Elfes qui ont vu l'âge des Hommes arriver, nous voyons une nouvelle ère se dessiner...
 
@@ -350,7 +396,9 @@ const modernCode = {
 
 Mais comme le dit la prophétie : "Même les plus sages ne peuvent voir tous les aboutissements..."
 
-## Les Âges à Venir - Une Vision d'Elrond 🌟
+## Les Ages a Venir - Une Vision d'Elrond 
+
+🌟
 
 Dans les brumes du temps, on peut apercevoir de nouvelles magies se former...
 Des frameworks plus puissants que les anciens sortilèges,
@@ -372,3 +420,9 @@ const futureCode = async () => {
 ```
 
 Mais ceci est une histoire pour un autre jour... 🎀
+
+## Authors : 
+
+made with love and passion by :  
+    - Fassih  
+    - Zoé
