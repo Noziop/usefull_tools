@@ -1,9 +1,9 @@
 # 🧙‍♂️ Le Guide ES6 de la Terre du Milieu 🗡️
 
 Dans les temps anciens de JavaScript, de grands anneaux de pouvoir furent forgés...  
-var pour les développeurs mortels, condamnés à hoister,  
-function pour les seigneurs Callbacks, dans leurs tours asynchrones,  
-this pour les rois du DOM, destinés à se perdre dans leurs scopes.
+'**var**' pour les développeurs mortels, condamnés à hoister,  
+'**function**' pour les seigneurs Callbacks, dans leurs tours asynchrones,  
+'**this**' pour les rois du DOM, destinés à se perdre dans leurs scopes.
 
 Mais ils furent tous dupés, car un nouveau pouvoir fut créé...
 
@@ -18,11 +18,11 @@ Et dans ES6 les lier !
 
 ## TL;DR - Le Message de Galadriel
 ES6 apporte aux terres de JavaScript :
-- const/let pour remplacer l'ancien var
-- Arrow functions pour des sorts plus élégants
-- Classes pour un héritage noble
-- Modules pour forger des alliances
-- Promesses pour des prophéties plus claires
+- **const**/**let** pour remplacer l'ancien var
+- **Arrow** functions pour des sorts plus élégants
+- **Classes** pour un héritage noble
+- **Modules** pour forger des alliances
+- **Promesses** pour des prophéties plus claires
 - Et bien d'autres magies modernes...
 
 ## Sommaire - La Carte de la Terre du Milieu
