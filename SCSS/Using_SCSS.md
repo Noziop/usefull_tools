@@ -1,6 +1,6 @@
 # Comment compiler du SCSS en CSS
 
-La compilation du SCSS en CSS est une étape essentielle pour utiliser Sass dans vos projets web. Voici plusieurs méthodes pour y parvenir :
+La compilation du [SCSS](#scss-et-sass-) en CSS est une étape essentielle pour utiliser [Sass](#scss-et-sass-) dans vos projets web. Voici plusieurs méthodes pour y parvenir :
 
 ## 1. Utilisation de la ligne de commande
 
@@ -195,3 +195,15 @@ Ces fonctionnalités de SCSS offrent une puissance et une flexibilité inégalé
 - D'implémenter des logiques avancées directement dans les styles
 
 En maîtrisant ces techniques, les développeurs peuvent créer des systèmes de design robustes et flexibles, adaptés aux projets de toutes tailles. SCSS transforme ainsi la manière dont nous abordons le styling dans le développement web moderne.
+
+
+# SCSS et Sass :
+Sass (Syntactically Awesome Style Sheets) est un préprocesseur qui ajoute des fonctionnalités puissantes au CSS, comme les variables, les boucles, les fonctions, et les mixins. Il permet de structurer le code de façon plus modulaire, facilitant la maintenance et l’évolution des feuilles de styles.
+
+SCSS est une version plus récente et syntaxiquement plus proche du CSS standard, ce qui le rend plus accessible pour ceux qui connaissent déjà bien le CSS. En gros, il s’agit d’une syntaxe de Sass : alors que le Sass original utilisait une syntaxe avec des indentations et sans accolades, SCSS reprend la structure classique du CSS, avec accolades et points-virgules.
+
+Donc, pour résumer :
+
+Sass : Syntaxe originale, sans accolades ni points-virgules, avec des indentations.
+SCSS : Syntaxe proche du CSS classique, avec accolades et points-virgules, mais avec les avantages des fonctionnalités de Sass.
+Les deux sont compilés en CSS standard avant d’être utilisés par le navigateur. Ils permettent de simplifier et d’optimiser le code CSS, et rendent le travail beaucoup plus agréable !
